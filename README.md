@@ -1,27 +1,55 @@
-## Hello World! 🙌 
-#### I'm Muhammad Raditya Pradana Ilhami
+<div align="center">
 
-***
+<!-- Typing Animation Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=hi,+I'm+Raditya+Pradana!+%F0%9F%91%8B;Junior+Odoo+Developer;Full-Stack+Software+Engineer" alt="Typing SVG" />
+</a>
 
-<img src="https://raw.githubusercontent.com/nyok26/nyok26/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-raditya-pradana-ilhami" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://raditya-portofolio-zeta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-***
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/raditya-pradana/raditya-pradana/output/snake.svg" alt="Snake animation" width="100%" />
 
-<!-- ![gif coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno4amt3ZjZ6NHZld28zczhxa2RsaTF0djZxeG0xanQ0YTc5cXVyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif) -->
+<br/>
 
-## 💫 About Me:
-🎓 Final-year D3 student in Computer Engineering and Informatics, focusing on applied AI and software development.
+### 👨‍💻 About Me
+**Computer Engineering Alumni | Junior Odoo Developer @ PT Sanbe Farma**
+<br/>
+Currently bridging business logic and technical execution by optimizing internal ERP systems. I have a strong passion for full-stack development, applied AI, and building scalable software architecture.
 
-🌱 Developing a final project on NLP-based semantic similarity using a hybrid rule-based approach for CV screening.
+<br/>
 
+### 🛠️ Tech Stack & Tools
 
-## 💻 Tech Stack:
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<!-- Odoo diletakkan terpisah karena ini spesialisasi utama Anda sekarang -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Specialized_in_Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+</p>
 
-***
+<!-- Skill Icons yang seragam dan estetik -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,php,java,kotlin,html" alt="Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,vue,tailwind,nestjs,nodejs,laravel,fastapi" alt="Frameworks" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,azure" alt="Databases and Cloud" />
+  </a>
+</p>
 
-## 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nyok26&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nyok26&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyok26&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
+</div>
